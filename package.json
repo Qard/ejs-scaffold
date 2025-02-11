@@ -1,6 +1,6 @@
 {
   "name": "ejs-scaffold",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scaffold a directory of files with ejs templating",
   "author": "Stephen Belanger <admin@stephenbelanger.com> (http://stephenbelanger.com/)",
   "license": "MIT",
